@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "a3b7de87-b46f-4dcf-b6ed-5bf5ebe83167",
+            "id": "f384d80c-2e3d-4f06-8ec3-30182a557340",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/ragnarservers"
+          "path": "/fasttech5"
         }
       }
     }
